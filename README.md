@@ -2,6 +2,8 @@
 
 Get if device auto rotate is ON.
 
+Now just work on android.
+
 ## Getting Started
 
 This project is a starting point for a Flutter
