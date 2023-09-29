@@ -11,7 +11,4 @@ class AutoRotateGet {
     final bool autoRoute = await _channel.invokeMethod('getAutoRotate');
     return autoRoute;
   }
-
-
-
 }
